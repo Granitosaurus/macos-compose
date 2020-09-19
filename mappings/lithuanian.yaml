@@ -1,0 +1,19 @@
+# These are bindings for Lithuanian special letters: ąčęėįšūųž
+A,: Ą
+a,: ą
+C<: Č
+c<: č
+E,: Ę
+E.: Ė
+e,: ę
+e.: ė
+I,: Į
+i,: į
+S<: Š
+s<: š
+U-: Ū
+U,: Ų
+u-: ū
+u,: ų
+Z<: Ž
+z<: ž

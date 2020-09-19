@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "gen-compose"
+version = "1.0.0"
+description = "Key generator for macos keybinding system"
+authors = ["Granitosaurus <wraptile@pm.me>"]
+license = "GPL-3.0-or-later"
+packages = [{"include" = "gencompose.py"}]
+readme = "README.md"
+homepage = "https://github.com/Granitosaurus/macos-compose"
+repository = "https://github.com/Granitosaurus/macos-compose"
+keywrods = ['macos', 'compose', 'keymap']
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Topic :: System :: Hardware",
+    "Topic :: Utilities",
+]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+click = "^7.1.2"
+pyyaml = "^5.3.1"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+gen-compose = "gencompose:main"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
