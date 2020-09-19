@@ -87,8 +87,8 @@ _note: Some programs need a hard reboot to take in the map, like `kill -9` sort 
 
 #### Related Resources
 
-https://github.com/gnarf/osx-compose-key
-http://lolengine.net/blog/2012/06/17/compose-key-on-os-x
-http://bob.cakebox.net/osxcompose.php
+https://github.com/gnarf/osx-compose-key  
+http://lolengine.net/blog/2012/06/17/compose-key-on-os-x  
+http://bob.cakebox.net/osxcompose.php  
 
 [karabiner elements]: https://karabiner-elements.pqrs.org/

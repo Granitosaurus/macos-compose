@@ -8,7 +8,7 @@ packages = [{"include" = "gencompose.py"}]
 readme = "README.md"
 homepage = "https://github.com/Granitosaurus/macos-compose"
 repository = "https://github.com/Granitosaurus/macos-compose"
-keywrods = ['macos', 'compose', 'keymap']
+keywords = ['macos', 'compose', 'keymap']
 classifiers = [
     "Development Status :: 4 - Beta",
     "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
