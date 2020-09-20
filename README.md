@@ -85,10 +85,24 @@ Options:
 
 _note: Some programs need a hard reboot to take in the map, like `kill -9` sort of reboot to start working._
 
+## Notes and Issues
+
+* There's no way to really debug this other than trial and error and making sure applications are restarted after every update.  
+* When multiple keymaps (eg `compose-gen map1.yaml map2.yal`) provided they will be joined and updated in order they are provided.
+* Keymap does not allow completely overlapping keys. e.g. `egg` and `eggplant` will break because it's impossible to map two overlapping values as keymap functionality has no timeout (i.e. break if nothing is typed after a second and insert `egg`, instead it will wait indefinitely for you to finish `eggplant`)  
+    If overlap happens `compose-gen` will choose the shorter form and discard the long one.  
+    To fix this add end terminator character such as space: `egg<space>` rather than `egg` in your mappings.
+* `DefaultKeyBinding.dict` map doesn't work in some popular programs: 
+    - JetBrain editors such as PyCharm, see: https://youtrack.jetbrains.com/issue/IDEA-127470
+    - Qutebrowser, see: https://github.com/qutebrowser/qutebrowser/issues/5734
+
+
+
 #### Related Resources
 
 https://github.com/gnarf/osx-compose-key  
 http://lolengine.net/blog/2012/06/17/compose-key-on-os-x  
 http://bob.cakebox.net/osxcompose.php  
+https://github.com/ttscoff/KeyBindings
 
 [karabiner elements]: https://karabiner-elements.pqrs.org/
