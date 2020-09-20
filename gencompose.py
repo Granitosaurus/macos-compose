@@ -70,7 +70,8 @@ def main(mappings, raw, key):
     """Generate macos rebind file from compose json mapping"""
     all_maps = {}
     for mapping in mappings:
-        all_maps.update(**yaml.load(mapping.read(), Loader=yaml.Loader))
+        yamldata = yaml.load(mapping.read(), Loader=yaml.Loader)
+        all_maps.update(**{str(k): str(v) for k, v in yamldata.items()})
     all_maps = read_paths(all_maps)
     text = data_to_mac_dict(all_maps)
     if raw:
@@ -88,6 +89,8 @@ def merge(source, destination):
     >>> b = { 'first' : { 'all_rows' : { 'fail' : 'cat', 'number' : '5' } } }
     >>> merge(b, a) == { 'first' : { 'all_rows' : { 'pass' : 'dog', 'fail' : 'cat', 'number' : '5' } } }
     """
+    if isinstance(destination, str):
+        return source
     for key, value in source.items():
         if isinstance(value, dict):
             # get node or create one
@@ -95,7 +98,6 @@ def merge(source, destination):
             merge(value, node)
         else:
             destination[key] = value
-
     return destination
 
 
