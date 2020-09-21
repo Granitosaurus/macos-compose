@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "gen-compose"
-version = "1.0.0"
+version = "1.0.1"
 description = "Key generator for macos keybinding system"
 authors = ["Granitosaurus <wraptile@pm.me>"]
 license = "GPL-3.0-or-later"
