@@ -94,7 +94,7 @@ _note: Some programs need a hard reboot to take in the map, like `kill -9` sort 
     To fix this add end terminator character such as space: `egg<space>` rather than `egg` in your mappings.
 * `DefaultKeyBinding.dict` map doesn't work in some popular programs: 
     - JetBrain editors such as PyCharm, see: https://youtrack.jetbrains.com/issue/IDEA-127470
-    - Qutebrowser, see: https://github.com/qutebrowser/qutebrowser/issues/5734
+    - QT apps such as Qutebrowser, see (and vote): https://bugreports.qt.io/browse/QTBUG-393
 
 
 
