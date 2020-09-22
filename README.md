@@ -7,7 +7,9 @@
 
 Compose keys lets you insert complex character by entering multiple characters in a succession:
 
-`<compose_key> + s + <` will insert `š`
+![screencast demonstration of compose key](./demo.gif)
+
+e.g. `<compose_key> + d + o + w + n` will insert `👇`
 
 Mac os doesn't come with a compose key feature built-in. However there's a short hack to make it work:
 
