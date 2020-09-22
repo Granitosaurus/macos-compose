@@ -25,14 +25,15 @@ With these three rules we can replicate compose key and even set it to work with
 
 ```
 $ pip3 install --user gen-compose
-$ gencompose --help
-Usage: gen-compose [OPTIONS] COMPOSE_DATA
+$ gen-compose --help
+Usage: gen-compose [OPTIONS] [MAPPINGS]...
 
   Generate macos rebind file from compose json mapping
 
 Options:
-  -r, --raw TEXT  just keymap without prefix
-  --help          Show this message and exit.
+  --key TEXT  key to use as compose key  [default: §]
+  -r, --raw   just keymap without prefix
+  --help      Show this message and exit.
 ```
 
 ## Preconfig
