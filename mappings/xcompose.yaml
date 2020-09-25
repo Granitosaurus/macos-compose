@@ -1,0 +1,1001 @@
+"..": "…"  # HORIZONTAL ELLIPSIS
+"v..": "⋮"  # VERTICAL ELLIPSIS
+"c..": "⋯"  # MIDLINE HORIZONTAL ELLIPSIS
+"/..": "⋰"  # UP RIGHT DIAGONAL ELLIPSIS
+".\\.": "⋱"  # DOWN RIGHT DIAGONAL ELLIPSIS
+"2.": "‥"  # TWO DOT LEADER
+"c1.": "·"  # MIDDLE DOT (maybe I can remember the keystroke better?
+"./.": "⁒"  # COMMERCIAL MINUS SIGN
+"&@": "⅋"  # TURNED AMPERSAND
+"&7": "⁊"  # TIRONIAN SIGN ET
+"\\ ": "␣"  # OPEN BOX
+"-- ": "– "  # EN DASH (followed by space)
+"-~-": "―"  # HORIZONTAL BAR
+"-2M": "⸺"  # TWO-EM DASH
+"-3M": "⸻"  # THREE-EM DASH
+"\\-": "­"  # SOFT HYPHEN
+" -": " — "  # EM DASH surrounded by THIN SPACEs.
+", ": "‚"  # SINGLE LOW-9 QUOTATION MARK
+",,": "„"  # DOUBLE LOW-9 QUOTATION MARK
+"<,,": "⹂"  # DOUBLE LOW-REVERSED-9 QUOTATION MARK
+"' ": "’"  # RIGHT SINGLE QUOTATION MARK
+"''": "”"  # RIGHT DOUBLE QUOTATION MARK
+"` ": "‘"  # LEFT SINGLE QUOTATION MARK
+"``": "“"  # LEFT DOUBLE QUOTATION MARK
+"6'": "‘"  # LEFT SINGLE QUOTATION MARK (high 6)
+"6\"": "“"  # LEFT DOUBLE QUOTATION MARK (66)
+"9'": "’"  # RIGHT SINGLE QUOTATION MARK (high 9)
+"9\"": "”"  # RIGHT DOUBLE QUOTATION MARK (99)
+"<9'": "‛"  # SINGLE HIGH-REVERSED-9 QUOTATION MARK
+"<9\"": "‟"  # DOUBLE HIGH-REVERSED-9 QUOTATION MARK
+",'": "‚"  # SINGLE LOW-9 QUOTATION MARK (quote resembling a comma)
+",\"": "„"  # DOUBLE LOW-9 QUOTATION MARK
+" \"": " “"  # space followed by LEFT DOUBLE QUOTATION MARK
+"\" ": "” "  # RIGHT DOUBLE QUOTATION MARK followed by space
+" '": " ‘"  # space followed by LEFT SINGLE QUOTATION MARK
+"nt": "n’t "  # Apostrophized English “not.”
+" t": " the "
+" T": "  The "
+" a": " and "
+"im": " I’m "
+"ve": "’ve "
+",@": "⸲"  # TURNED COMMA
+".^": "⸳"  # RAISED DOT
+".~": "⸳"  # RAISED DOT
+",^": "⸴"  # RAISED COMMA
+";@": "⸵"  # TURNED SEMICOLON
+"~|": "ⸯ"  # VERTICAL TILDE
+"^|": "ⸯ"  # VERTICAL TILDE
+"-=": "⹀"  # DOUBLE HYPHEN
+",<": "⹁"  # REVERSED COMMA
+"<|": "↵"  # DOWNWARDS ARROW WITH CORNER LEFTWARDS
+"*1": "•"  # BULLET
+"o_": "⁃"  # HYPHEN BULLET
+"o,": "·"  # MIDDLE DOT
+" n": " "  # NARROW NO-BREAK SPACE
+" #": " "  # FIGURE SPACE
+"\\,": " "  # THIN SPACE
+" |": " "  # HAIR SPACE
+"dag": "†"  # DAGGER
+"ddag": "‡"  # DOUBLE DAGGER
+"sec": "§"  # SECTION SIGN
+"\"\"": "〃"  # DITTO MARK
+"7^[": "⸢"  # TOP LEFT HALF BRACKET
+"7^]": "⸣"  # TOP RIGHT HALF BRACKET
+"L_[": "⸤"  # BOTTOM LEFT HALF BRACKET
+"L_]": "⸥"  # BOTTOM RIGHT HALF BRACKET
+"-<": "←"  # LEFTWARDS ARROW
+"-^": "↑"  # UPWARDS ARROW
+"->": "→"  # RIGHTWARDS ARROW
+"-v": "↓"  # DOWNWARDS ARROW
+"<->": "↔"  # LEFT RIGHT ARROW (kragen's)
+"zz>": "↯"  # DOWNWARDS ZIGZAG ARROW
+"fv": "✌"  # VICTORY HAND
+"fw": "✍"  # WRITING HAND
+"=>": "⇒"  # RIGHTWARDS DOUBLE ARROW
+"=<": "⇐"  # LEFTWARDS DOUBLE ARROW
+"<-=>": "⇔"  # LEFT RIGHT DOUBLE ARROW
+"=.=": "⸎"  # EDITORIAL CORONIS
+"palm": "⸙"  # PALM BRANCH
+"branch": "⸙"  # PALM BRANCH
+"ff": "ﬀ"  # LATIN SMALL LIGATURE FF
+"fi": "ﬁ"  # LATIN SMALL LIGATURE FI
+"Fi": "ﬃ"  # LATIN SMALL LIGATURE FFI
+"fl": "ﬂ"  # LATIN SMALL LIGATURE FL
+"Fl": "ﬄ"  # LATIN SMALL LIGATURE FFL
+"st": "ﬆ"  # LATIN SMALL LIGATURE ST
+"ft": "ﬅ"  # LATIN SMALL LIGATURE LONG S T
+"ſt": "ﬅ"  # LATIN SMALL LIGATURE LONG S T
+"SS": "ẞ"  # LATIN CAPITAL LETTER SHARP S
+"F<": "ꟻ"  # LATIN EPIGRAPHIC LETTER REVERSED F
+"P<": "ꟼ"  # LATIN EPIGRAPHIC LETTER REVERSED P
+"FF": "Ⅎ"  # TURNED CAPITAL F
+"Ff": "ⅎ"  # TURNED SMALL F
+"MW": "ꟽ"  # LATIN EPIGRAPHIC LETTER INVERTED M
+"MM": "Ɯ"  # LATIN CAPITAL LETTER TURNED M
+"I|": "ꟾ"  # LATIN EPIGRAPHIC LETTER I LONGA
+"M/": "ꟿ"  # LATIN EPIGRAPHIC LETTER ARCHAIC M
+"22": "↊"  # TURNED DIGIT TWO
+"33": "↋"  # TURNED DIGIT THREE
+"E<": "Ǝ"  # LATIN CAPITAL LETTER REVERSED E
+"e<": "ɘ"  # LATIN SMALL LETTER REVERSED E
+"A<": "Ɐ"  # LATIN CAPITAL LETTER TURNED A
+"o&o": "ꝏ"  # LATIN SMALL LETTER OO
+"O&O": "Ꝏ"  # LATIN CAPITAL LETTER OO
+"2o": "ꝏ"  # LATIN SMALL LETTER OO
+"2O": "Ꝏ"  # LATIN CAPITAL LETTER OO
+"A&A": "Ꜳ"  # LATIN CAPITAL LETTER AA
+"a&a": "ꜳ"  # LATIN SMALL LETTER AA
+"2A": "Ꜳ"  # LATIN CAPITAL LETTER AA
+"2a": "ꜳ"  # LATIN SMALL LETTER AA
+"A&O": "Ꜵ"  # LATIN CAPITAL LETTER AO
+"a&o": "ꜵ"  # LATIN SMALL LETTER AO
+"A&U": "Ꜷ"  # LATIN CAPITAL LETTER AU
+"a&u": "ꜷ"  # LATIN SMALL LETTER AU
+"A&V": "Ꜹ"  # LATIN CAPITAL LETTER AV
+"a&v": "ꜹ"  # LATIN SMALL LETTER AV
+"A&Y": "Ꜽ"  # LATIN CAPITAL LETTER AY
+"a&y": "ꜽ"  # LATIN SMALL LETTER AY
+"/&L": "Ꝇ"  # LATIN CAPITAL LETTER BROKEN L
+"/&l": "ꝇ"  # LATIN SMALL LETTER BROKEN L
+"Z.": "Ꝫ"  # LATIN CAPITAL LETTER ET
+"z.": "ꝫ"  # LATIN SMALL LETTER ET
+"V&Y": "Ꝡ"  # LATIN CAPITAL LETTER VY
+"v&y": "ꝡ"  # LATIN SMALL LETTER VY
+"CZ": "Ꝣ"  # LATIN CAPITAL LETTER VISIGOTHIC Z
+"cz": "ꝣ"  # LATIN SMALL LETTER VISIGOTHIC Z
+"L&L": "Ỻ"  # LATIN CAPITAL LETTER MIDDLE-WELSH LL
+"l&l": "ỻ"  # LATIN SMALL LETTER MIDDLE-WELSH LL
+"V&V": "Ỽ"  # LATIN CAPITAL LETTER MIDDLE-WELSH V
+"v&v": "ỽ"  # LATIN SMALL LETTER MIDDLE-WELSH V
+"d&b": "ȸ"  # LATIN SMALL LETTER DB DIGRAPH
+"q&p": "ȹ"  # LATIN SMALL LETTER QP DIGRAPH
+"wy": "ƿ"  # LATIN LETTER WYNN
+"WY": "Ƿ"  # LATIN CAPITAL LETTER WYNN
+"OU": "Ȣ"  # LATIN CAPITAL LETTER OU
+"ou": "ȣ"  # LATIN SMALL LETTER OU
+"yr": "Ʀ"  # LATIN LETTER YR
+"ro": "ꝛ"  # LATIN SMALL LETTER R ROTUNDA
+"r0": "ꝛ"  # LATIN SMALL LETTER R ROTUNDA
+"RO": "Ꝛ"  # LATIN CAPITAL LETTER R ROTUNDA
+"R0": "Ꝛ"  # LATIN CAPITAL LETTER R ROTUNDA
+"!=": "≠"  # NOT EQUAL TO
+"/=": "≠"  # NOT EQUAL TO
+"<=": "≤"  # LESS-THAN OR EQUAL TO
+">=": "≥"  # GREATER-THAN OR EQUAL TO
+"!<>": "≸"  # NEITHER LESS-THAN NOR GREATER-THAN
+"+<": "≪"  # MUCH LESS-THAN
+"+>": "≫"  # MUCH GREATER-THAN
+"++<": "⋘"  # VERY MUCH LESS-THAN
+"++>": "⋙"  # VERY MUCH GREATER-THAN
+"3>": "⋙"  # VERY MUCH GREATER-THAN
+"3<": "⋘"  # VERY MUCH LESS-THAN
+"in": "∈"  # ELEMENT OF
+"!in": "∉"  # NOT AN ELEMENT OF
+"∈/": "∉"  # NOT AN ELEMENT OF (I have ∈ on my keyboard...)
+".∈": "∊"  # SMALL ELEMENT OF
+".∋": "∍"  # SMALL CONTAINS AS MEMBER
+"ni": "∋"  # CONTAINS AS MEMBER  (I hope this doesn't conflict)
+"/ni": "∌"  # DOES NOT CONTAIN AS MEMBER
+"∋/": "∌"  # DOES NOT CONTAIN AS MEMBER
+"~=": "≅"  # APPROXIMATELY EQUAL TO (It actually means "congruent"!)
+"=?": "≟"  # QUESTIONED EQUAL TO
+"=def": "≝"  # EQUAL TO BY DEFINITION
+"def=": "≝"  # EQUAL TO BY DEFINITION
+"==": "≡"  # IDENTICAL TO
+":=": "≔"  # COLON EQUALS
+"=:": "≕"  # EQUALS COLON
+"2=": "⩵"  # TWO CONSECUTIVE EQUALS SIGNS
+"=&=": "⩵"  # TWO CONSECUTIVE EQUALS SIGNS
+"3=": "⩶"  # THREE CONSECUTIVE EQUALS SIGNS
+"=|=": "≢"  # NOT IDENTICAL TO
+"-+": "∓"  # MINUS OR PLUS SIGN
+"sq": "√"  # SQUARE ROOT
+"3sq": "∛"  # CUBE ROOT
+"4sq": "∜"  # FOURTH ROOT
+"/\\": "∧"  # LOGICAL AND
+"\\/": "∨"  # LOGICAL OR
+"\\_/": "⊻"  # XOR
+"-,": "¬"  # NOT SIGN
+"*o": "∘"  # RING OPERATOR (function composition)
+"*x": "⨯"  # CROSS PRODUCT
+"*.": "⋅"  # DOT OPERATOR (dot product)
+"0/": "∅"  # EMPTY SET (thanks jsled!)
+"/0": "∅"  # EMPTY SET
+"{U": "∪"  # UNION
+"{^": "∩"  # INTERSECTION
+"{(": "⊂"  # SUBSET OF
+"{=(": "⊆"  # SUBSET OF OR EQUAL TO
+"!{(": "⊄"  # NOT A SUBSET OF
+"/{(": "⊄"  # NOT A SUBSET OF
+"!{)": "⊅"  # NOT A SUPERSET OF
+"/{)": "⊅"  # NOT A SUPERSET OF
+"{)": "⊃"  # SUPERSET OF
+"{=)": "⊇"  # SUPERSET OF OR EQUAL TO
+"EE": "∃"  # THERE EXISTS
+"/EE": "∄"  # THERE DOES NOT EXIST
+"AA": "∀"  # FOR ALL
+"QED": "∎"  # END OF PROOF
+"88": "∞"  # INFINITY
+"aleph": "ℵ"  # ALEF SYMBOL
+"alep0": "ℵ₀"  # ALEF Null
+"alep1": "ℵ₁"  # ALEF One
+"alef": "ℵ"  # ALEF SYMBOL
+"**": "∗"  # ASTERISK OPERATOR
+"(+)": "⊕"  # CIRCLED PLUS
+"(-)": "⊖"  # CIRCLED MINUS
+"(xx)": "⊗"  # CIRCLED TIMES
+"(/)": "⊘"  # CIRCLED DIVISION SLASH
+"(*)": "⊛"  # CIRCLED ASTERISK OPERATOR
+")_": "⟌"  # LONG DIVISION
+".\"": "∴"  # THEREFORE
+"there4": "∴"  # THEREFORE
+"\".": "∵"  # BECAUSE
+"because": "∵"  # BECAUSE
+"%%": "‱"  # PER TEN THOUSAND (basis points)
+"/u": "µ"  # MICRO SIGN
+"-a": "ª"  # FEMININE ORDINAL INDICATOR
+"-o": "º"  # MASCULINE ORDINAL INDICATOR
+"sum": "∑"  # N-ARY SUMMATION
+"int": "∫"  # INTEGRAL
+"uint": "⨛"  # UPPER INTEGRAL
+"lint": "⨜"  # LOWER INTEGRAL
+"iint": "∬"  # DOUBLE INTEGRAL
+"iiint": "∭"  # TRIPLE INTEGRAL
+"iiiint": "⨌"  # QUADRUPLE INTEGRAL
+"oint": "∮"  # CONTOUR INTEGRAL
+"pint": "⨕"  # INTEGRAL AROUND A POINT OPERATOR
+"cPint": "⨓"  # LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE
+"oiint": "∯"  # SURFACE INTEGRAL
+"oiiint": "∰"  # VOLUME INTEGRAL
+"gint": "⨘"  # GEOMETRIC INTEGRAL
+"sint": "⨋"  # SUM/INTEGRAL
+"del": "∇"  # NABLA
+"part": "∂"  # PARTIAL DIFFERENTIAL
+"*..d": "∂"  # PARTIAL DIFFERENTIAL
+"Re": "ℜ"  # BLACK-LETTER CAPITAL R (Real Part)
+"Im": "ℑ"  # BLACK-LETTER CAPTIAL I (Imaginary Part)
+"hbar": "ℏ"  # PLANCK CONSTANT OVER TWO PI
+"h-": "ℏ"  # PLANCK CONSTANT OVER TWO PI
+"hp": "ℎ"  # PLANCK CONSTANT
+"exp": "ℯ"  # SCRIPT SMALL E
+"e10": "⏨"  # DECIMAL EXPONENT SYMBOL
+"wp": "℘"  # SCRIPT CAPITAL P
+"^>": "⃗"  # COMBINING RIGHT ARROW ABOVE (vector)
+"|C": "ℂ"  # DOUBLE-STRUCK CAPITAL C (set of complex numbers)
+"|N": "ℕ"  # DOUBLE-STRUCK CAPITAL N (natural number)
+"|P": "ℙ"  # DOUBLE-STRUCK CAPITAL P
+"|Q": "ℚ"  # DOUBLE-STRUCK CAPITAL Q (set of rational numbers)
+"|R": "ℝ"  # DOUBLE-STRUCK CAPITAL R (set of real numbers)
+"|Z": "ℤ"  # DOUBLE-STRUCK CAPITAL Z (set of integers)
+"|H": "ℍ"  # DOUBLE-STRUCK CAPITAL H
+"|e": "ⅇ"  # DOUBLE-STRUCK ITALIC SMALL E
+"|i": "ⅈ"  # DOUBLE-STRUCK ITALIC SMALL I
+"|j": "ⅉ"  # DOUBLE-STRUCK ITALIC SMALL J
+"|*p": "ℼ"  # DOUBLE-STRUCK SMALL PI
+"|*P": "ℿ"  # DOUBLE-STRUCK CAPITAL PI
+"|*S": "⅀"  # DOUBLE-STRUCK N-ARY SUMMATION
+"|:": "⦂"  # Z NOTATION TYPE COLON
+"|;": "⨾"  # Z NOTATION RELATIONAL COMPOSITION
+"|{": "⦃"  # LEFT WHITE CURLY BRACKET
+"|}": "⦄"  # RIGHT WHITE CURLY BRACKET
+"S(": "⟅"  # LEFT S-SHAPED BAG DELIMITER
+"S)": "⟆"  # RIGHT S-SHAPED BAG DELIMITER
+"E[": "⁅"  # LEFT SQUARE BRACKET WITH QUILL
+"E]": "⁆"  # RIGHT SQUARE BRACKET WITH QUILL
+"<(": "⟨"  # MATHEMATICAL LEFT ANGLE BRACKET
+">)": "⟩"  # MATHEMATICAL RIGHT ANGLE BRACKET
+"|[": "⟦"  # MATHEMATICAL LEFT WHITE SQUARE BRACKET
+"|]": "⟧"  # MATHEMATICAL RIGHT WHITE SQUARE BRACKET
+"2<(": "⟪"  # MATHEMATICAL LEFT DOUBLE ANGLE BRACKET
+"2>)": "⟫"  # MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET
+"||(": "⟬"  # MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET
+"||)": "⟭"  # MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
+"__(": "⟮"  # MATHEMATICAL LEFT FLATTENED PARENTHESIS
+"__)": "⟯"  # MATHEMATICAL RIGHT FLATTENED PARENTHESIS
+"([": "⦗"  # LEFT BLACK TORTOISE SHELL BRACKET
+")]": "⦘"  # RIGHT BLACK TORTOISE SHELL BRACKET
+"%(": "⧘"  # LEFT WIGGLY FENCE
+"%)": "⧙"  # RIGHT WIGGLY FENCE
+"2%(": "⧚"  # LEFT DOUBLE WIGGLY FENCE
+"2%)": "⧛"  # RIGHT DOUBLE WIGGLY FENCE
+"(&(": "⸨"  # LEFT DOUBLE PARENTHESIS
+")&)": "⸩"  # RIGHT DOUBLE PARENTHESIS
+"2(": "⸨"  # LEFT DOUBLE PARENTHESIS
+"2)": "⸩"  # RIGHT DOUBLE PARENTHESIS
+"Z(": "༼"  # TIBETAN MARK ANG KHANG GYON
+"Z)": "༽"  # TIBETAN MARK ANG KHANG GYAS
+"L[": "⌊"  # LEFT FLOOR
+"L]": "⌋"  # RIGHT FLOOR
+"7[": "⌈"  # LEFT CEILING
+"7]": "⌉"  # RIGHT CEILING
+"7'": "｢"  # HALFWIDTH LEFT CORNER BRACKET
+"L'": "｣"  # HALFWIDTH RIGHT CORNER BRACKET
+"7\"": "『"  # LEFT WHITE CORNER BRACKET
+"L\"": "』"  # RIGHT WHITE CORNER BRACKET
+"7(": "⌜"  # TOP LEFT CORNER
+"7)": "⌝"  # TOP RIGHT CORNER
+"L(": "⌞"  # BOTTOM LEFT CORNER
+"L)": "⌟"  # BOTTOM RIGHT CORNER
+"(&)": "≬"  # BETWEEN
+"ll": "ℓ"  # SCRIPT SMALL L
+"[[": "⊏"  # SQUARE IMAGE OF
+"[=": "⊑"  # SQUARE IMAGE OF OR EQUAL TO
+"[_": "⊑"  # SQUARE IMAGE OF OR EQUAL TO
+"]]": "⊐"  # SQUARE ORIGINAL OF
+"]=": "⊒"  # SQUARE ORIGINAL OF OR EQUAL TO
+"]_": "⊒"  # SQUARE ORIGINAL OF OR EQUAL TO
+"_|_": "⊥"  # UP TACK (bottom) or should we use U27C2 PERPENDICULAR?
+"_!_": "⊤"  # DOWN TACK (opposite of False)
+"_>_": "⊢"  # RIGHT TACK
+"_<_": "⊣"  # LEFT TACK
+"//": "⁄"  # FRACTION SLASH
+"_0": "₀"  # SUBSCRIPT ZERO
+"_1": "₁"  # SUBSCRIPT ONE
+"_2": "₂"  # SUBSCRIPT TWO
+"_3": "₃"  # SUBSCRIPT THREE
+"_4": "₄"  # SUBSCRIPT FOUR
+"_5": "₅"  # SUBSCRIPT FIVE
+"_6": "₆"  # SUBSCRIPT SIX
+"_7": "₇"  # SUBSCRIPT SEVEN
+"_8": "₈"  # SUBSCRIPT EIGHT
+"_9": "₉"  # SUBSCRIPT NONE
+"_+": "₊"  # SUBSCRIPT PLUS
+"_-": "₋"  # SUBSCRIPT MINUS
+"_=": "₌"  # SUBSCRIPT EQUALS SIGN
+"_(": "₍"  # SUBSCRIPT LEFT PARENTHESIS
+"_)": "₎"  # SUBSCRIPT RIGHT PARENTHESIS
+"_a": "ₐ"  # LATIN SUBSCRIPT SMALL LETTER A
+"_e": "ₑ"  # LATIN SUBSCRIPT SMALL LETTER E
+"_o": "ₒ"  # LATIN SUBSCRIPT SMALL LETTER O
+"_x": "ₓ"  # LATIN SUBSCRIPT SMALL LETTER X
+"_h": "ₕ"  # LATIN SUBSCRIPT SMALL LETTER H
+"_k": "ₖ"  # LATIN SUBSCRIPT SMALL LETTER K
+"_l": "ₗ"  # LATIN SUBSCRIPT SMALL LETTER L
+"_m": "ₘ"  # LATIN SUBSCRIPT SMALL LETTER M
+"_n": "ₙ"  # LATIN SUBSCRIPT SMALL LETTER N
+"_p": "ₚ"  # LATIN SUBSCRIPT SMALL LETTER P
+"_s": "ₛ"  # LATIN SUBSCRIPT SMALL LETTER S
+"_t": "ₜ"  # LATIN SUBSCRIPT SMALL LETTER T
+"_i": "ᵢ"  # LATIN SUBSCRIPT SMALL LETTER I
+"_j": "ⱼ"  # LATIN SUBSCRIPT SMALL LETTER J
+"_r": "ᵣ"  # LATIN SUBSCRIPT SMALL LETTER R
+"_u": "ᵤ"  # LATIN SUBSCRIPT SMALL LETTER U
+"_v": "ᵥ"  # LATIN SUBSCRIPT SMALL LETTER V
+"_*b": "ᵦ"  # GREEK SUBSCRIPT SMALL LETTER BETA
+"_*g": "ᵧ"  # GREEK SUBSCRIPT SMALL LETTER GAMMA
+"_*r": "ᵨ"  # GREEK SUBSCRIPT SMALL LETTER RHO
+"_*f": "ᵩ"  # GREEK SUBSCRIPT SMALL LETTER PHI
+"_*x": "ᵪ"  # GREEK SUBSCRIPT SMALL LETTER CHI
+"*a": "α"  # GREEK SMALL LETTER ALPHA
+"*b": "β"  # GREEK SMALL LETTER BETA
+"*c": "ψ"  # GREEK SMALL LETTER PSI
+"*d": "δ"  # GREEK SMALL LETTER DELTA
+"*e": "ε"  # GREEK SMALL LETTER EPSILON
+"*f": "φ"  # GREEK SMALL LETTER PHI
+"*g": "γ"  # GREEK SMALL LETTER GAMMA
+"*h": "η"  # GREEK SMALL LETTER ΕΤΑ
+"*i": "ι"  # GREEK SMALL LETTER ΙΟΤΑ
+"*j": "ξ"  # GREEK SMALL LETTER XI
+"*k": "κ"  # GREEK SMALL LETTER KAPPA
+"*l": "λ"  # GREEK SMALL LETTER LAMBDA
+"*m": "μ"  # GREEK SMALL LETTER MU
+"*n": "ν"  # GREEK SMALL LETTER NU
+"*o": "ο"  # GREEK SMALL LETTER OMICRON
+"*p": "π"  # GREEK SMALL LETTER PI
+"*.?": ";"  # GREEK QUESTION MARK
+"*r": "ρ"  # GREEK SMALL LETTER RHO
+"*s": "σ"  # GREEK SMALL LETTER SIGMA
+"*t": "τ"  # GREEK SMALL LETTER TAU
+"*u": "θ"  # GREEK SMALL LETTER THETA
+"*v": "ω"  # GREEK SMALL LETTER OMEGA
+"*w": "ς"  # GREEK SMALL LETTER FINAL SIGMA
+"*x": "χ"  # GREEK SMALL LETTER CHI
+"*y": "υ"  # GREEK SMALL LETTER UPSILON
+"*z": "ζ"  # GREEK SMALL LETTER ZETA
+"*A": "Α"  # GREEK CAPITAL LETTER ALPHA
+"*B": "Β"  # GREEK CAPITAL LETTER BETA
+"*C": "Ψ"  # GREEK CAPITAL LETTER PSI
+"*D": "Δ"  # GREEK CAPITAL LETTER DELTA
+"*E": "Ε"  # GREEK CAPITAL LETTER EPSILON
+"*F": "Φ"  # GREEK CAPITAL LETTER PHI
+"*G": "Γ"  # GREEK CAPITAL LETTER GAMMA
+"*H": "Η"  # GREEK CAPITAL LETTER ΕΤΑ
+"*I": "Ι"  # GREEK CAPITAL LETTER ΙΟΤΑ
+"*J": "Ξ"  # GREEK CAPITAL LETTER XI
+"*K": "Κ"  # GREEK CAPITAL LETTER KAPPA
+"*L": "Λ"  # GREEK CAPITAL LETTER LAMBDA
+"*M": "Μ"  # GREEK CAPITAL LETTER MU
+"*N": "Ν"  # GREEK CAPITAL LETTER NU
+"*O": "Ο"  # GREEK CAPITAL LETTER OMICRON
+"*P": "Π"  # GREEK CAPITAL LETTER PI
+"*R": "Ρ"  # GREEK CAPITAL LETTER RHO
+"*S": "Σ"  # GREEK CAPITAL LETTER SIGMA
+"*T": "Τ"  # GREEK CAPITAL LETTER TAU
+"*U": "Θ"  # GREEK CAPITAL LETTER THETA
+"*V": "Ω"  # GREEK CAPITAL LETTER OMEGA
+"*X": "Χ"  # GREEK CAPITAL LETTER CHI
+"*Y": "Υ"  # GREEK CAPITAL LETTER UPSILON
+"*Z": "Ζ"  # GREEK CAPITAL LETTER ZETA
+"*.p": "ϖ"  # GREEK PI SYMBOL
+"*.w": "ϝ"  # GREEK SMALL LETTER DIGAMMA
+"*.W": "Ϝ"  # GREEK CAPITAL LETTER DIGAMMA
+"*Q": "Ϟ"  # GREEK LETTER QOPPA
+"*q": "ϟ"  # GREEK SMALL LETTER QOPPA
+"*.Q": "Ϙ"  # GREEK LETTER ARCHAIC QOPPA
+"*.q": "ϙ"  # GREEK SMALL LETTER ARCHAIC QOPPA
+"*&": "ϗ"  # GREEK KAI SYMBOL
+"*.Z": "Ϡ"  # GREEK LETTER SAMPI
+"*.z": "ϡ"  # GREEK SMALL LETTER SAMPI
+"*..Z": "Ͳ"  # GREEK CAPITAL LETTER ARCHAIC SAMPI
+"*..z": "ͳ"  # GREEK SMALL LETTER ARCHAIC SAMPI
+"*?": "Ϛ"  # GREEK LETTER STIGMA
+"*/": "ϛ"  # GREEK SMALL LETTER STIGMA
+"*'": "ʹ"  # MODIFIER LETTER PRIME, canonically equivalent to U0374 GREEK NUMERAL SIGN
+"*.'": "′"  # PRIME
+"*.\"": "″"  # DOUBLE PRIME
+"*,": "͵"  # GREEK LOWER NUMERAL SIGN (for thousands)
+"*.b": "ϐ"  # GREEK BETA SYMBOL
+"*.u": "ϑ"  # GREEK THETA SYMBOL
+"*.Y": "ϒ"  # GREEK UPSILON WITH HOOK SYMBOL
+"*.f": "ϕ"  # GREEK PHI SYMBOL
+"*.k": "ϰ"  # GREEK KAPPA SYMBOL
+"*.r": "ϱ"  # GREEK RHO SYMBOL
+"*.U": "ϴ"  # GREEK CAPITAL THETA SYMBOL
+"*.e": "ϵ"  # GREEK LUNATE EPSILON SYMBOL
+"*.s": "ϻ"  # GREEK SMALL LETTER SAN
+"*.S": "Ϻ"  # GREEK CAPITAL LETTER SAN
+"13": "⅓"  # VULGAR FRACTION ONE THIRD
+"23": "⅔"  # VULGAR FRACTION TWO THIRDS
+"15": "⅕"  # VULGAR FRACTION ONE FIFTH
+"25": "⅖"  # VULGAR FRACTION TWO FIFTHS
+"35": "⅗"  # VULGAR FRACTION THREE FIFTHS
+"45": "⅘"  # VULGAR FRACTION FOUR FIFTHS
+"16": "⅙"  # VULGAR FRACTION ONE SIXTH
+"56": "⅚"  # VULGAR FRACTION FIVE SIXTHS
+"18": "⅛"  # VULGAR FRACTION ONE EIGHTH
+"38": "⅜"  # VULGAR FRACTION THREE EIGHTHS
+"58": "⅝"  # VULGAR FRACTION FIVE EIGHTHS
+"78": "⅞"  # VULGAR FRACTION SEVEN EIGHTHS
+"17": "⅐"  # VULGAR FRACTION ONE SEVENTH
+"19": "⅑"  # VULGAR FRACTION ONE NINTH
+"1x": "⅒"  # VULGAR FRACTION ONE TENTH
+"03": "↉"  # VULGAR FRACTION ZERO THIRDS
+"1/": "⅟"  # FRACTION NUMERATOR ONE
+"%1": "ⅰ"  # SMALL ROMAN NUMERAL ONE
+"%2": "ⅱ"  # SMALL ROMAN NUMERAL TWO
+"%3": "ⅲ"  # SMALL ROMAN NUMERAL THREE
+"%4": "ⅳ"  # SMALL ROMAN NUMERAL FOUR
+"%5": "ⅴ"  # SMALL ROMAN NUMERAL FIVE
+"%6": "ⅵ"  # SMALL ROMAN NUMERAL SIX
+"%7": "ⅶ"  # SMALL ROMAN NUMERAL SEVEN
+"%8": "ⅷ"  # SMALL ROMAN NUMERAL EIGHT
+"%9": "ⅸ"  # SMALL ROMAN NUMERAL NINE
+"%x": "ⅹ"  # SMALL ROMAN NUMERAL TEN
+"%_1": "ⅺ"  # SMALL ROMAN NUMERAL ELEVEN
+"%_2": "ⅻ"  # SMALL ROMAN NUMERAL TWELVE
+"%l": "ⅼ"  # SMALL ROMAN NUMERAL FIFTY
+"%c": "ⅽ"  # SMALL ROMAN NUMERAL ONE HUNDRED
+"%d": "ⅾ"  # SMALL ROMAN NUMERAL FIVE HUNDRED
+"%m": "ⅿ"  # SMALL ROMAN NUMERAL ONE THOUSAND
+"%01": "Ⅰ"  # ROMAN NUMERAL ONE
+"%02": "Ⅱ"  # ROMAN NUMERAL TWO
+"%03": "Ⅲ"  # ROMAN NUMERAL THREE
+"%04": "Ⅳ"  # ROMAN NUMERAL FOUR
+"%05": "Ⅴ"  # ROMAN NUMERAL FIVE
+"%06": "Ⅵ"  # ROMAN NUMERAL SIX
+"%07": "Ⅶ"  # ROMAN NUMERAL SEVEN
+"%08": "Ⅷ"  # ROMAN NUMERAL EIGHT
+"%09": "Ⅸ"  # ROMAN NUMERAL NINE
+"%0x": "Ⅹ"  # ROMAN NUMERAL TEN
+"%_01": "Ⅺ"  # ROMAN NUMERAL ELEVEN
+"%_02": "Ⅻ"  # ROMAN NUMERAL TWELVE
+"%0l": "Ⅼ"  # ROMAN NUMERAL FIFTY
+"%0c": "Ⅽ"  # ROMAN NUMERAL ONE HUNDRED
+"%0d": "Ⅾ"  # ROMAN NUMERAL FIVE HUNDRED
+"%0m": "Ⅿ"  # ROMAN NUMERAL ONE THOUSAND
+"%X": "Ⅹ"  # ROMAN NUMERAL TEN
+"%L": "Ⅼ"  # ROMAN NUMERAL FIFTY
+"%C": "Ⅽ"  # ROMAN NUMERAL ONE HUNDRED
+"%<C": "Ↄ"  # ROMAN NUMERAL REVERSED ONE HUNDRED
+"%D": "Ⅾ"  # ROMAN NUMERAL FIVE HUNDRED
+"%M": "Ⅿ"  # ROMAN NUMERAL ONE THOUSAND
+"%0CD": "ↀ"  # ROMAN NUMERAL ONE THOUSAND C D
+"%0D": "ↁ"  # ROMAN NUMERAL FIVE THOUSAND
+"%0M": "ↂ"  # ROMAN NUMERAL TEN THOUSAND
+"%00D": "ↇ"  # ROMAN NUMERAL FIFTY THOUSAND
+"%00M": "ↈ"  # ROMAN NUMERAL ONE HUNDRED THOUSAND
+"(:": "☻"  # BLACK SMILING FACE
+":)": "☺"  # WHITE SMILING FACE
+":(": "☹"  # WHITE FROWNING FACE
+":~": "⍨"  # APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+":|": "⸚"  # HYPHEN WITH DIAERESIS
+":oo)": "°͜°"  # Funny smiley-face.
+"O.O": "Ꙭ"  # CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O * used in the dual of words based on the root for 'eye'
+"o.o": "ꙭ"  # CYRILLIC SMALL LETTER DOUBLE MONOCULAR O
+"O:": "Ꙫ"  # CYRILLIC CAPITAL LETTER BINOCULAR O * used in the dual of words based on the root for 'eye'
+"o:": "ꙫ"  # CYRILLIC SMALL LETTER BINOCULAR O
+"o+": "ꙮ"  # CYRILLIC LETTER MULTIOCULAR O * used in the epithet 'many-eyed'
+"o3": "߷"  # NKO SYMBOL GBAKURUNEN
+"!?": "‽"  # INTERROBANG
+"?!": "⸘"  # INVERTED INTERROBANG, standard now.
+"¿¡": "⸘"  # INVERTED INTERROBANG (if you have a ¡ key.  Otherwise...? "?i" maybe?
+"¡¿": "⸘"  # INVERTED INTERROBANG (if you have a ¡ key.  Otherwise...? "?i" maybe?
+"?<": "⸮"  # REVERSED QUESTION MARK
+"?&?": "⁇"  # DOUBLE QUESTION MARK
+"2?": "⁇"  # DOUBLE QUESTION MARK
+"?&!": "⁈"  # QUESTION EXCLAMATION MARK
+"!&?": "⁉"  # EXCLAMATION QUESTION MARK
+"!&!": "‼"  # DOUBLE EXCLAMATION MARK
+"2!": "‼"  # DOUBLE EXCLAMATION MARK
+"2:": "∷"  # PROPORTION -- not strictly 2 times COLON
+";<": "⁏"  # REVERSED SEMICOLON
+"<3": "♥"  # BLACK HEART SUIT
+"o8": "♣"  # BLACK CLUB SUIT
+"c3": "♣"  # BLACK CLUB SUIT
+"<>": "♢"  # WHITE DIAMOND SUIT
+"3-": "♠"  # BLACK SPADE SUIT
+"<}": "♠"  # BLACK SPADE SUIT
+"E>": "♡"  # WHITE HEART SUIT
+"shmrck": "☘"  # SHAMROCK
+"shamro": "☘"  # SHAMROCK
+"pc": "☮"  # PEACE SYMBOL
+"peace": "☮"  # PEACE SYMBOL
+"yy": "☯"  # YIN YANG
+"yinyan": "☯"  # YIN YANG
+"!<3": "❣"  # HEAVY HEART EXCLAMATION MARK ORNAMENT
+"f<3": "❦"  # FLORAL HEART
+"tel": "☎"  # BLACK TELEPHONE
+"tea": "☕"  # HOT BEVERAGE
+"[ ]": "☐"  # BALLOT BOX
+"chk": "☑"  # BALLOT BOX WITH CHECK
+"[/]": "☑"  # BALLOT BOX WITH CHECK
+"[x]": "☒"  # BALLOT BOX WITH X
+"@/": "✓"  # CHECK MARK
+"@@/": "✔"  # HEAVY CHECK MARK
+"@X": "✗"  # BALLOT X
+"@@X": "✘"  # HEAVY BALLOT X
+"@(": "❨"  # MEDIUM LEFT PARENTHESIS ORNAMENT
+"@)": "❩"  # MEDIUM RIGHT PARENTHESIS ORNAMENT
+"@@(": "❪"  # MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT
+"@@)": "❫"  # MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT
+"@<": "❬"  # MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT
+"@>": "❭"  # MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT
+"@@<": "❰"  # HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT
+"@@>": "❱"  # HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT
+"@[(": "❲"  # LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT
+"@])": "❳"  # LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT
+"@{": "❴"  # MEDIUM LEFT CURLY BRACKET ORNAMENT
+"@}": "❵"  # MEDIUM RIGHT CURLY BRACKET ORNAMENT
+"@": "️"  # Emoji selector
+"!": "︎"  # Text selector
+"[1]": "⚀"  # DIE FACE-1
+"[2]": "⚁"  # DIE FACE-2
+"[3]": "⚂"  # DIE FACE-3
+"[4]": "⚃"  # DIE FACE-4
+"[5]": "⚄"  # DIE FACE-5
+"[6]": "⚅"  # DIE FACE-6
+"(CC)": "🅭"  # CIRCLED CC
+"C(CC)": "🅭"  # CIRCLED CC
+"(\\C)": "🅮"  # CIRCLED C WITH OVERLAID BACKSLASH
+"(/C)": "🅮"  # CIRCLED C WITH OVERLAID BACKSLASH
+"C(\\C)": "🅮"  # CIRCLED C WITH OVERLAID BACKSLASH
+"C(/C)": "🅮"  # CIRCLED C WITH OVERLAID BACKSLASH
+"C(BY)": "🅯"  # CIRCLED HUMAN FIGURE
+"C(SA)": "🄎"  # CIRCLED ANTICLOCKWISE ARROW
+"C(ND)": "⊜"  # CIRCLED EQUALS
+"C(=)": "⊜"  # CIRCLED EQUALS
+"C(NC)": "🄏"  # CIRCLED DOLLAR SIGN WITH OVERLAID BACKSLASH
+"C(/$)": "🄏"  # CIRCLED DOLLAR SIGN WITH OVERLAID BACKSLASH
+"C(\\$)": "🄏"  # CIRCLED DOLLAR SIGN WITH OVERLAID BACKSLASH
+"(C<)": "🄯"  # COPYLEFT SYMBOL
+"C(C<)": "🄯"  # COPYLEFT SYMBOL
+"#0": "🯰"  # SEGMENTED DIGIT ZERO
+"#1": "🯱"  # SEGMENTED DIGIT ONE
+"#2": "🯲"  # SEGMENTED DIGIT TWO
+"#3": "🯳"  # SEGMENTED DIGIT THREE
+"#4": "🯴"  # SEGMENTED DIGIT FOUR
+"#5": "🯵"  # SEGMENTED DIGIT FIVE
+"#6": "🯶"  # SEGMENTED DIGIT SIX
+"#7": "🯷"  # SEGMENTED DIGIT SEVEN
+"#8": "🯸"  # SEGMENTED DIGIT EIGHT
+"#9": "🯹"  # SEGMENTED DIGIT NINE
+"fdl": "⚜"  # FLEUR-DE-LIS
+"atom": "⚛"  # ATOM SYMBOL
+"cccp": "☭"  # HAMMER AND SICKLE
+"/!\\": "⚠"  # WARNING SIGN
+"!^": "⚠"  # WARNING SIGN
+"zap": "⚡"  # HIGH VOLTAGE SIGN
+"rad": "☢"  # RADIOACTIVE SIGN
+"bh": "☣"  # BIOHAZARD SIGN
+"biohaz": "☣"  # BIOHAZARD SIGN
+"AAAAA": "⛤"  # PENTAGRAM (pentalpha, get it?)
+"plane": "✈"  # AIRPLANE
+"mail": "✉"  # ENVELOPE
+"whlch": "♿"  # WHEELCHAIR SYMBOL
+"med": "☤"  # CADEUCEUS
+"iwit": "👁️‍🗨️"
+"1med": "⚕"  # STAFF OF AESCULAPIUS
+"o-+": "♀"  # FEMALE SIGN
+"o->": "♂"  # MALE SIGN
+"gay": "⚣"  # DOUBLED MALE SIGN
+"lesbian": "⚢"  # DOUBLED FEMALE SIGN
+"hetero": "⚤"  # INTERLOCKED FEMALE AND MALE SIGN
+"trans": "⚥"  # MALE AND FEMALE SIGN
+"genderq": "⚧"  # MALE WITH STROKE AND MALE AND FEMALE SIGN
+"OX": "☠"  # SKULL AND CROSSBONES
+"death": "☠"  # SKULL AND CROSSBONES
+"Xbones": "☠"  # SKULL AND CROSSBONES
+"kbd": "⌨"  # KEYBOARD
+"rhand": "☞"  # WHITE RIGHT POINTING INDEX
+"lhand": "☜"  # WHITE LEFT POINTING INDEX
+"**": "★"  # BLACK STAR
+"*0": "☆"  # WHITE STAR
+"*-": "✪"  # CIRCLED WHITE STAR
+"*3": "⁂"  # ASTERISM
+"3*": "⁂"  # ASTERISM
+"2*": "⁑"  # TWO ASTERISKS ALIGNED VERTICALLY
+"*4": "✢"  # FOUR TEARDROP-SPOKED ASTERISK
+"*6": "✡"  # STAR OF DAVID
+"*#": "✯"  # PINWHEEL STAR
+"*!": "✱"  # HEAVY ASTERISK
+"<X>": "❖"  # BLACK DIAMOND MINUS WHITE X
+"@#": "⌘"  # PLACE OF INTEREST SIGN
+"`-'": "⚞"  # THREE LINES CONVERGING RIGHT
+"'-`": "⚟"  # THREE LINES CONVERGING LEFT
+"Bellsym": "⍾"  # BELL SYMBOL (or ALIENS LANDING) -- &-a-l-i-e-n ?
+"_^_": "⌤"  # UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS; aka ENTER KEY, aka NOT AMUSED.
+"wait": "⌛"  # HOURGLASS
+"hour": "⌛"  # HOURGLASS
+"time": "⌚"  # WATCH
+"watch": "⌚"  # WATCH
+" N": " "  # EN SPACE
+" M": " "  # EM SPACE
+" 3M": " "  # THREE-PER-EM SPACE
+" 4M": " "  # FOUR-PER-EM SPACE
+" 6M": " "  # SIX-PER-EM SPACE
+" ,": " "  # PUNCTUATION SPACE
+" +": " "  # MEDIUM MATHEMATICAL SPACE
+"()": "◌"  # DOTTED CIRCLE
+"[]": "⬚"  # DOTTED SQUARE
+"*(": "﴾"  # ORNATE LEFT PARENTHESIS
+"*)": "﴿"  # ORNATE RIGHT PARENTHESIS
+"ks": "ʘ"  # LATIN LETTER BILABIAL CLICK (kiss sound)
+"|>": "‣"  # TRIANGULAR BULLET
+"^^h": "ʰ"  # SUPERSCRIPT H
+"^^i": "ⁱ"  # SUPERSCRIPT I
+"^^j": "ʲ"  # SUPERSCRIPT J
+"^^n": "ⁿ"  # SUPERSCRIPT N
+"^^r": "ʳ"  # SUPERSCRIPT R
+"^^w": "ʷ"  # SUPERSCRIPT W
+"^^y": "ʸ"  # SUPERSCRIPT Y
+"^^x": "ˣ"  # SUPERSCRIPT X
+"^^e": "ᵉ"  # MODIFIER LETTER SMALL E
+"^^t": "ᵗ"  # MODIFIER LETTER SMALL T
+"þt": "ꝥ"  # LATIN SMALL LETTER THORN WITH STROKE
+"^?.": "ˀ"  # MODIFIER LETTER GLOTTAL STOP
+"^?(": "ˁ"  # MODIFIER LETTER REVERSED GLOTTAL STOP
+"^-": "⁻"  # SUPERSCRIPT MINUS
+"^+": "⁺"  # SUPERSCRIPT PLUS
+"~~": "≈"  # ALMOST EQUAL TO
+"sh": "ʃ"  # LATIN SMALL LETTER ESH
+"zh": "ʒ"  # LATIN SMALL LETTER EZH
+"lh": "ɬ"  # LATIN SMALL LETTER L WITH BELT
+"l3": "ɮ"  # LATIN SMALL LETTER LEZH
+"yg": "ȝ"  # LATIN SMALL LETTER YOGH
+"YG": "Ȝ"  # LATIN CAPITAL LETTER YOGH
+"?.": "ʔ"  # LATIN LETTER GLOTTAL STOP
+"?(": "ʕ"  # LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+"?v": "ʖ"  # LATIN LETTER INVERTED GLOTTAL STOP
+"?@": "ʖ"  # LATIN LETTER INVERTED GLOTTAL STOP
+"?-": "ʡ"  # LATIN LETTER GLOTTAL STOP WITH STROKE
+"?{": "ʢ"  # LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+"ph": "ɸ"  # LATIN SMALL LETTER PHI
+"ih": "ɪ"  # LATIN LETTER SMALL CAPITAL I
+"IH": "ɪ"  # LATIN LETTER SMALL CAPITAL I
+"uh": "ʊ"  # LATIN SMALL LETTER UPSILON
+"UH": "ʊ"  # LATIN SMALL LETTER UPSILON
+"ah": "ɑ"  # LATIN SMALL LETTER ALPHA
+"er": "ɚ"  # LATIN SMALL LETTER SCHWA WITH HOOK
+"o)": "ɔ"  # LATIN SMALL LETTER OPEN O
+"aw": "ɔ"  # LATIN SMALL LETTER OPEN O
+"O)": "Ɔ"  # LATIN CAPITAL LETTER OPEN O
+"AW": "Ɔ"  # LATIN CAPITAL LETTER OPEN O
+"eh": "ɛ"  # LATIN SMALL LETTER OPEN E
+"<ah": "ɒ"  # LATIN SMALL LETTER TURNED ALPHA
+"<eh": "ɜ"  # LATIN SMALL LETTER REVERSED OPEN E
+"<er": "ɝ"  # LATIN SMALL LETTER REVERSED OPEN E WITH HOOK
+"gy": "ɟ"  # LATIN SMALL LETTER DOTLESS J WITH STROKE
+"|'": "ˈ"  # MODIFIER LETTER VERTICAL LINE
+"|,": "ˌ"  # MODIFIER LETTER LOW VERTICAL LINE
+"|_": "̩"  # COMBINING VERTICAL LINE BELOW
+"\\_|": "̩"  # COMBINING VERTICAL LINE BELOW
+"rr": "ɹ"  # LATIN SMALL LETTER TURNED R: voiced alveolar approximant (American English (at least) R)
+"rd": "ɾ"  # LATIN SMALL LETTER R WITH FISHHOOK: voiced alveolar flap or tap (American English intervocalic allophone of d, or Spanish r)
+"vv": "ʌ"  # LATIN SMALL LETTER TURNED V
+"ui": "ɯ"  # LATIN SMALL LETTER TURNED M
+"ww": "ʍ"  # LATIN SMALL LETTER TURNED W
+"yy": "ʎ"  # LATIN SMALL LETTER TURNED Y
+"aa": "ɐ"  # LATIN SMALL LETTER TURNED A
+"hh": "ɥ"  # LATIN SMALL LETTER TURNED H
+"j.": "ȷ"  # LATIN SMALL LETTER DOTLESS J
+"!.": "Ꞌ"  # LATIN CAPITAL LETTER SALTILLO
+"!_.": "ꞌ"  # LATIN SMALL LETTER SALTILLO
+"WW": "ʬ"  # LATIN LETTER BILABIAL PERCUSSIVE
+":+": "ː"  # MODIFIER LETTER TRIANGULAR COLON
+"gh": "ɣ"  # LATIN SMALL LETTER GAMMA
+"ogh": "ɤ"  # LATIN SMALL LETTER RAMS HORN
+"ain": "ᴥ"  # LATIN LETTER AIN
+"d,": "ɖ"  # LATIN SMALL LETTER D WITH TAIL
+"l,": "ɭ"  # LATIN SMALL LETTER L WITH RETROFLEX HOOK
+"n,": "ɳ"  # LATIN SMALL LETTER N WITH RETROFLEX HOOK
+"s,": "ʂ"  # LATIN SMALL LETTER S WITH HOOK
+"t,": "ʈ"  # LATIN SMALL LETTER T WITH RETROFLEX HOOK
+"z,": "ʐ"  # LATIN SMALL LETTER Z WITH RETROFLEX HOOK
+"f,": "ƒ"  # LATIN SMALL LETTER F WITH HOOK
+"b'": "ɓ"  # LATIN SMALL LETTER B WITH HOOK
+"d'": "ɗ"  # LATIN SMALL LETTER D WITH HOOK
+"g'": "ɠ"  # LATIN SMALL LETTER G WITH HOOK
+"gg": "ɡ"  # LATIN SMALL LETTER SCRIPT G
+"h'": "ɦ"  # LATIN SMALL LETTER H WITH HOOK
+"G'": "ʛ"  # LATIN LETTER SMALL CAPITAL G WITH HOOK
+"No": "№"  # NUMERO SIGN
+"Rx": "℞"  # PRESCRIPTION TAKE
+"Per": "⅌"  # PER SIGN
+"oz.": "℥"  # OUNCE SIGN
+"scr.": "℈"  # SCRUPLE
+"*...": "๛"  # THAI CHARACTER KHOMUT (end of chapter)
+"#b": "♭"  # MUSIC FLAT SIGN
+"#f": "♮"  # MUSIC NATURAL SIGN
+"#=": "♮"  # MUSIC NATURAL SIGN
+"##": "♯"  # MUSIC SHARP SIGN
+"#G": "𝄞"  # MUSICAL SYMBOL G CLEF
+"#F": "𝄢"  # MUSICAL SYMBOL F CLEF
+"#C": "𝄡"  # MUSICAL SYMBOL C CLEF
+"#o/": "♪"  # EIGHTH NOTE
+"#oo": "♫"  # BEAMED EIGHTH NOTES
+"#%": "♫"  # BEAMED EIGHTH NOTES
+"#q": "♩"  # QUARTER NOTE
+"#h": "𝅗𝅥"  # MUSICAL SYMBOL HALF NOTE
+"#w": "𝅝"  # MUSICAL SYMBOL WHOLE NOTE
+"\\`": "̀"  # COMBINING GRAVE ACCENT
+"\\'": "́"  # COMBINING ACUTE ACCENT
+"\\^": "̂"  # COMBINING CIRCUMFLEX ACCENT
+"\\~": "̃"  # COMBINING TILDE
+"\\=": "̄"  # COMBINING MACRON
+"\\\\=": "̅"  # COMBINING OVERLINE -- ???
+"\\U": "̆"  # COMBINING BREVE
+"\\.": "̇"  # COMBINING DOT ABOVE
+"\\\"": "̈"  # COMBINING DIAERESIS
+"\\?": "̉"  # COMBINING HOOK ABOVE
+"\\o": "̊"  # COMBINING RING ABOVE
+"\\0": "̊"  # COMBINING RING ABOVE
+"\\\\'": "̋"  # COMBINING DOUBLE ACUTE ACCENT -- ??
+"\\c": "̌"  # COMBINING CARON
+"\\|": "̍"  # COMBINING VERTICAL LINE ABOVE
+"\\2|": "̎"  # COMBINING DOUBLE VERTICAL LINE ABOVE
+"\\2`": "̏"  # COMBINING DOUBLE GRAVE ACCENT
+"\\\\\\,": "̒"  # COMBINING TURNED COMMA ABOVE
+"\\\\,": "̓"  # COMBINING COMMA ABOVE
+"\\\\<,": "̔"  # COMBINING REVERSED COMMA ABOVE
+"\\fm": "͒"  # COMBINING FERMATA
+"\\(.": "̐"  # COMBINING CHANDRABINDU
+"\\ib": "̑"  # COMBINING INVERTED BREVE -- ??
+"\\()": "⃝"  # COMBINING ENCLOSING CIRCLE
+"\\[q]": "⃞"  # COMBINING ENCLOSING SQUARE
+"\\[d]": "⃟"  # COMBINING ENCLOSING DIAMOND
+"\\(/)": "⃠"  # COMBINING ENCLOSING CIRCLE BACKSLASH
+"\\[s]": "⃢"  # COMBINING ENCLOSING SCREEN
+"\\[k]": "⃣"  # COMBINING ENCLOSING KEYCAP
+"\\[t]": "⃤"  # COMBINING ENCLOSING TRIANGLE
+"\\2/": "⃫"  # COMBINING LONG DOUBLE SOLIDUS OVERLAY
+"\\*": "⃰"  # COMBINING ASTERISK ABOVE
+"\\!": "̣"  # COMBINING DOT BELOW
+"\\__": "̱"  # COMBINING MACRON BELOW
+"\\\\_": "̲"  # COMBINING LOW LINE
+"\\\\\\_": "̳"  # COMBINING DOUBLE LOW LINE
+"\\@o": "̥"  # COMBINING RING BELOW
+"\\@c": "̬"  # COMBINING CARON BELOW
+"\\@^": "̭"  # COMBINING CIRCUMFLEX ACCENT BELOW
+"\\@U": "̮"  # COMBINING BREVE BELOW
+"\\@ib": "̯"  # COMBINING INVERTED BREVE BELOW -- ??
+"\\&@U": "͜"  # COMBINING DOUBLE BREVE BELOW
+"\\2@U": "͜"  # COMBINING DOUBLE BREVE BELOW
+"\\&U": "͝"  # COMBINING DOUBLE BREVE
+"\\2U": "͝"  # COMBINING DOUBLE BREVE
+"\\&-": "͞"  # COMBINING DOUBLE MACRON
+"\\2-": "͞"  # COMBINING DOUBLE MACRON
+"\\&@-": "͟"  # COMBINING DOUBLE MACRON BELOW
+"\\2@-": "͟"  # COMBINING DOUBLE MACRON BELOW
+"\\&_": "͟"  # COMBINING DOUBLE MACRON BELOW
+"\\2_": "͟"  # COMBINING DOUBLE MACRON BELOW
+"\\&~": "͠"  # COMBINING DOUBLE TILDE
+"\\2~": "͠"  # COMBINING DOUBLE TILDE
+"\\&ib": "͡"  # COMBINING DOUBLE INVERTED BREVE
+"\\2ib": "͡"  # COMBINING DOUBLE INVERTED BREVE
+"\\&@ib": "᷼"  # COMBINING DOUBLE INVERTED BREVE BELOW
+"\\2@ib": "᷼"  # COMBINING DOUBLE INVERTED BREVE BELOW
+"\\&>": "͢"  # COMBINING DOUBLE RIGHTWARDS ARROW BELOW
+"\\2>": "͢"  # COMBINING DOUBLE RIGHTWARDS ARROW BELOW
+".)": "͒"  # COMBINING FERMATA
+"\\\\*": "҉"  # COMBINING CYRILLIC MILLIONS SIGN  -- aka COMBINING SHINY
+"P-": "₽"  # RUBLE SIGN
+"p-": "₽"  # RUBLE SIGN
+"ZWSP": "​"  # ZERO WIDTH SPACE
+"ZWNJ": "‌"  # ZERO WIDTH NON-JOINER
+"ZWJ": "‍"  # ZERO WIDTH JOINER
+"LRM": "‎"  # LEFT-TO-RIGHT MARK
+"RLM": "‏"  # RIGHT-TO-LEFT MARK
+"LRE": "‪"  # LEFT-TO-RIGHT EMBEDDING
+"RLE": "‫"  # RIGHT-TO-LEFT EMBEDDING
+"PDF": "‬"  # POP DIRECTIONAL FORMATTING
+"LRI": "⁦"  # LEFT-TO-RIGHT ISOLATE
+"RLI": "⁧"  # RIGHT-TO-LEFT ISOLATE
+"FSI": "⁨"  # FIRST STRONG ISOLATE
+"PDI": "⁩"  # POP DIRECTIONAL ISOLATE
+"LRO": "‭"  # LEFT-TO-RIGHT OVERRIDE
+"RLO": "‮"  # RIGHT-TO-LEFT OVERRIDE
+"BOM": "﻿"  # ZERO WIDTH NO-BREAK SPACE (Byte Order Mark)
+"CGJ": "͏"  # COMBINING GRAPHEME JOINER
+"WJ": "⁠"  # WORD JOINER
+"a`": "ᴀ"  # LATIN LETTER SMALL CAPITAL A
+"b`": "ʙ"  # LATIN LETTER SMALL CAPITAL B
+"c`": "ᴄ"  # LATIN LETTER SMALL CAPITAL C
+"d`": "ᴅ"  # LATIN LETTER SMALL CAPITAL D
+"e`": "ᴇ"  # LATIN LETTER SMALL CAPITAL E
+"f`": "ꜰ"  # LATIN LETTER SMALL CAPITAL F
+"g`": "ɢ"  # LATIN LETTER SMALL CAPITAL G
+"h`": "ʜ"  # LATIN LETTER SMALL CAPITAL H
+"i`": "ɪ"  # LATIN LETTER SMALL CAPITAL I
+"j`": "ᴊ"  # LATIN LETTER SMALL CAPITAL J
+"k`": "ᴋ"  # LATIN LETTER SMALL CAPITAL K
+"l`": "ʟ"  # LATIN LETTER SMALL CAPITAL L
+"m`": "ᴍ"  # LATIN LETTER SMALL CAPITAL M
+"n`": "ɴ"  # LATIN LETTER SMALL CAPITAL N
+"o`": "ᴏ"  # LATIN LETTER SMALL CAPITAL O
+"p`": "ᴘ"  # LATIN LETTER SMALL CAPITAL P
+"q`": "ꞯ"  # LATIN LETTER SMALL CAPITAL Q
+"r`": "ʀ"  # LATIN LETTER SMALL CAPITAL R
+"s`": "ꜱ"  # LATIN LETTER SMALL CAPITAL S
+"t`": "ᴛ"  # LATIN LETTER SMALL CAPITAL T
+"u`": "ᴜ"  # LATIN LETTER SMALL CAPITAL U
+"v`": "ᴠ"  # LATIN LETTER SMALL CAPITAL V
+"w`": "ᴡ"  # LATIN LETTER SMALL CAPITAL W
+"y`": "ʏ"  # LATIN LETTER SMALL CAPITAL Y
+"z`": "ᴢ"  # LATIN LETTER SMALL CAPITAL Z
+"sun": "☉"  # SUN (Sunday)
+"moon": "☽"  # FIRST QUARTER MOON (Monday)
+"mercury": "☿"  # MERCURY (Wednesday)
+"jupiter": "♃"  # JUPITER (Thursday)
+"saturn": "♄"  # SATURN (Saturday)
+"uranus": "♅"  # URANUS (or ⛢ U26E2?)
+"neptune": "♆"  # NEPTUNE
+"pluto": "♇"  # PLUTO (ok, it isn't a planet anymore, but we still love it.)
+"ceres": "⚳"  # CERES
+"pallas": "⚴"  # PALLAS
+"juno": "⚵"  # JUNO
+"vesta": "⚶"  # VESTA
+"chiron": "⚷"  # CHIRON
+"lilith": "⚸"  # BLACK MOON LILITH
+"[key]": "⚿"  # SQUARED KEY
+"[AS]": "🂡"  # PLAYING CARD ACE OF SPADES
+"[2S]": "🂢"  # PLAYING CARD TWO OF SPADES
+"[3S]": "🂣"  # PLAYING CARD THREE OF SPADES
+"[4S]": "🂤"  # PLAYING CARD FOUR OF SPADES
+"[5S]": "🂥"  # PLAYING CARD FIVE OF SPADES
+"[6S]": "🂦"  # PLAYING CARD SIX OF SPADES
+"[7S]": "🂧"  # PLAYING CARD SEVEN OF SPADES
+"[8S]": "🂨"  # PLAYING CARD EIGHT OF SPADES
+"[9S]": "🂩"  # PLAYING CARD NINE OF SPADES
+"[TS]": "🂪"  # PLAYING CARD TEN OF SPADES
+"[JS]": "🂫"  # PLAYING CARD JACK OF SPADES
+"[NS]": "🂬"  # PLAYING CARD KNIGHT OF SPADES
+"[QS]": "🂭"  # PLAYING CARD QUEEN OF SPADES
+"[KS]": "🂮"  # PLAYING CARD KING OF SPADES
+"[AH]": "🂱"  # PLAYING CARD ACE OF HEARTS
+"[2H]": "🂲"  # PLAYING CARD TWO OF HEARTS
+"[3H]": "🂳"  # PLAYING CARD THREE OF HEARTS
+"[4H]": "🂴"  # PLAYING CARD FOUR OF HEARTS
+"[5H]": "🂵"  # PLAYING CARD FIVE OF HEARTS
+"[6H]": "🂶"  # PLAYING CARD SIX OF HEARTS
+"[7H]": "🂷"  # PLAYING CARD SEVEN OF HEARTS
+"[8H]": "🂸"  # PLAYING CARD EIGHT OF HEARTS
+"[9H]": "🂹"  # PLAYING CARD NINE OF HEARTS
+"[TH]": "🂺"  # PLAYING CARD TEN OF HEARTS
+"[JH]": "🂻"  # PLAYING CARD JACK OF HEARTS
+"[NH]": "🂼"  # PLAYING CARD KNIGHT OF HEARTS
+"[QH]": "🂽"  # PLAYING CARD QUEEN OF HEARTS
+"[KH]": "🂾"  # PLAYING CARD KING OF HEARTS
+"[AD]": "🃁"  # PLAYING CARD ACE OF DIAMONDS
+"[2D]": "🃂"  # PLAYING CARD TWO OF DIAMONDS
+"[3D]": "🃃"  # PLAYING CARD THREE OF DIAMONDS
+"[4D]": "🃄"  # PLAYING CARD FOUR OF DIAMONDS
+"[5D]": "🃅"  # PLAYING CARD FIVE OF DIAMONDS
+"[6D]": "🃆"  # PLAYING CARD SIX OF DIAMONDS
+"[7D]": "🃇"  # PLAYING CARD SEVEN OF DIAMONDS
+"[8D]": "🃈"  # PLAYING CARD EIGHT OF DIAMONDS
+"[9D]": "🃉"  # PLAYING CARD NINE OF DIAMONDS
+"[TD]": "🃊"  # PLAYING CARD TEN OF DIAMONDS
+"[JD]": "🃋"  # PLAYING CARD JACK OF DIAMONDS
+"[ND]": "🃌"  # PLAYING CARD KNIGHT OF DIAMONDS
+"[QD]": "🃍"  # PLAYING CARD QUEEN OF DIAMONDS
+"[KD]": "🃎"  # PLAYING CARD KING OF DIAMONDS
+"[AC]": "🃑"  # PLAYING CARD ACE OF CLUBS
+"[2C]": "🃒"  # PLAYING CARD TWO OF CLUBS
+"[3C]": "🃓"  # PLAYING CARD THREE OF CLUBS
+"[4C]": "🃔"  # PLAYING CARD FOUR OF CLUBS
+"[5C]": "🃕"  # PLAYING CARD FIVE OF CLUBS
+"[6C]": "🃖"  # PLAYING CARD SIX OF CLUBS
+"[7C]": "🃗"  # PLAYING CARD SEVEN OF CLUBS
+"[8C]": "🃘"  # PLAYING CARD EIGHT OF CLUBS
+"[9C]": "🃙"  # PLAYING CARD NINE OF CLUBS
+"[TC]": "🃚"  # PLAYING CARD TEN OF CLUBS
+"[JC]": "🃛"  # PLAYING CARD JACK OF CLUBS
+"[NC]": "🃜"  # PLAYING CARD KNIGHT OF CLUBS
+"[QC]": "🃝"  # PLAYING CARD QUEEN OF CLUBS
+"[KC]": "🃞"  # PLAYING CARD KING OF CLUBS
+"[CB]": "🂠"  # PLAYING CARD BACK
+"[BJ]": "🃏"  # PLAYING CARD BLACK JOKER
+"[WJ]": "🃟"  # PLAYING CARD WHITE JOKER
+"|WK": "♔"  # WHITE CHESS KING
+"|WQ": "♕"  # WHITE CHESS QUEEN
+"|WR": "♖"  # WHITE CHESS ROOK
+"|WB": "♗"  # WHITE CHESS BISHOP
+"|WN": "♘"  # WHITE CHESS KNIGHT
+"|WP": "♙"  # WHITE CHESS PAWN
+"|BK": "♚"  # BLACK CHESS KING
+"|BQ": "♛"  # BLACK CHESS QUEEN
+"|BR": "♜"  # BLACK CHESS ROOK
+"|BB": "♝"  # BLACK CHESS BISHOP
+"|BN": "♞"  # BLACK CHESS KNIGHT
+"|BP": "♟"  # BLACK CHESS PAWN
+"|WDM": "⛀"  # WHITE DRAUGHTS MAN
+"|WDK": "⛁"  # WHITE DRAUGHTS KING
+"|BDM": "⛂"  # BLACK DRAUGHTS MAN
+"|BDK": "⛃"  # BLACK DRAUGHTS KING
+"|WS": "☖"  # WHITE SHOGI PIECE
+"|BS": "☗"  # BLACK SHOGI PIECE
+"|<WS": "⛉"  # TURNED WHITE SHOGI PIECE
+"|<BS": "⛊"  # TURNED BLACK SHOGI PIECE
+"degree": "°"  # DEGREE SIGN
+"degC": "℃"  # DEGREE CELSIUS
+"degc": "℃"  # DEGREE CELSIUS
+"degF": "℉"  # DEGREE FAHRENHEIT
+"degf": "℉"  # DEGREE FAHRENHEIT
+"aries": "♈"  # ARIES
+"taurus": "♉"  # TAURUS
+"gemini": "♊"  # GEMINI
+"cancer": "♋"  # CANCER
+"leo": "♌"  # LEO
+"virgo": "♍"  # VIRGO
+"libra": "♎"  # LIBRA
+"scorp": "♏"  # SCORPIUS
+"sagit": "♐"  # SAGITTARIUS
+"capric": "♑"  # CAPRICORN
+"aquar": "♒"  # AQUARIUS
+"pisces": "♓"  # PISCES
+"ophiuc": "⛎"  # OPHIUCHUS
+"idea": "💡"  # ELECTRIC LIGHT BULB
+"anger": "💢"  # ANGER SYMBOL
+"bomb": "💣"  # BOMB
+"zzz": "💤"  # SLEEPING SYMBOL
+"pow": "💥"  # COLLISION SYMBOL
+"sweat": "💦"  # SPLASHING SWEAT SYMBOL
+"drop": "💧"  # DROPLET
+"zip": "💨"  # DASH SYMBOL
+"poo": "💩"  # PILE OF POO
+"dizzy": "💫"  # DIZZY SYMBOL
+"$bag": "💰"  # MONEY BAG
+"cake": "🍰"  # SHORTCAKE
+"lie": "🎂"  # BIRTHDAY CAKE
+"bday": "🎂"  # BIRTHDAY CAKE
+"AOK": "👌"  # OK HAND SIGN
+"thmup": "👍"  # THUMBS UP SIGN
+"thmdn": "👎"  # THUMBS DOWN SIGN
+"kiss": "💋"  # KISS MARK
+"DNE": "⛔"  # NO ENTRY
+"(1:00)": "🕐"  # CLOCK FACE ONE OCLOCK
+"(2:00)": "🕑"  # CLOCK FACE TWO OCLOCK
+"(3:00)": "🕒"  # CLOCK FACE THREE OCLOCK
+"(4:00)": "🕓"  # CLOCK FACE FOUR OCLOCK
+"(5:00)": "🕔"  # CLOCK FACE FIVE OCLOCK
+"(6:00)": "🕕"  # CLOCK FACE SIX OCLOCK
+"(7:00)": "🕖"  # CLOCK FACE SEVEN OCLOCK
+"(8:00)": "🕗"  # CLOCK FACE EIGHT OCLOCK
+"(9:00)": "🕘"  # CLOCK FACE NINE OCLOCK
+"(10:00)": "🕙"  # CLOCK FACE TEN OCLOCK
+"(11:00)": "🕚"  # CLOCK FACE ELEVEN OCLOCK
+"(12:00)": "🕛"  # CLOCK FACE TWELVE OCLOCK
+"(1:30)": "🕜"  # CLOCK FACE ONE-THIRTY
+"(2:30)": "🕝"  # CLOCK FACE TWO-THIRTY
+"(3:30)": "🕞"  # CLOCK FACE THREE-THIRTY
+"(4:30)": "🕟"  # CLOCK FACE FOUR-THIRTY
+"(5:30)": "🕠"  # CLOCK FACE FIVE-THIRTY
+"(6:30)": "🕡"  # CLOCK FACE SIX-THIRTY
+"(7:30)": "🕢"  # CLOCK FACE SEVEN-THIRTY
+"(8:30)": "🕣"  # CLOCK FACE EIGHT-THIRTY
+"(9:30)": "🕤"  # CLOCK FACE NINE-THIRTY
+"(10:30)": "🕥"  # CLOCK FACE TEN-THIRTY
+"(11:30)": "🕦"  # CLOCK FACE ELEVEN-THIRTY
+"(12:30)": "🕧"  # CLOCK FACE TWELVE-THIRTY
+"B|": "₿"  # BITCOIN SIGN

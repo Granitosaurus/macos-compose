@@ -4,7 +4,10 @@ version = "1.0.1"
 description = "Key generator for macos keybinding system"
 authors = ["Granitosaurus <wraptile@pm.me>"]
 license = "GPL-3.0-or-later"
-packages = [{"include" = "gencompose.py"}]
+packages = [
+    {"include" = "gencompose.py"},
+    {"include" = "convcompose.py"}
+]
 readme = "README.md"
 homepage = "https://github.com/Granitosaurus/macos-compose"
 repository = "https://github.com/Granitosaurus/macos-compose"
@@ -25,6 +28,7 @@ pyyaml = "^5.3.1"
 
 [tool.poetry.scripts]
 gen-compose = "gencompose:main"
+gen-compose-convert = "convcompose:main"
 
 [build-system]
 requires = ["poetry>=0.12"]

@@ -88,6 +88,33 @@ Options:
 
 _note: Some programs need a hard reboot to take in the map, like `kill -9` sort of reboot to start working._
 
+## Using XCompose Mappings
+
+Linux's xcompose mappings are supported via experimental conversion:
+
+```
+$ gen-compose-conver xcompose --help
+Usage: gen-compose-convert xcompose [OPTIONS] [FILES]...
+
+  Convert xcompose file, that follows format like: <Multi_key> <parenleft>
+  <period> <1> <parenright>: "⑴"
+
+Options:
+  -c, --keep-comments  keep inline comments
+  --help               Show this message and exit.
+```
+
+For example:
+
+```
+$ cat mappings/example.compose
+<Multi_key> <B> <bar> : "₿" U20BF  # BITCOIN SIGN
+$ gen-compose-convert xcompose mappings/example.compose --keep-comments > example.yaml
+$ cat example.yaml
+"B|": "₿"  # BITCOIN SIGN
+```
+
+
 ## Notes and Issues
 
 * There's no way to really debug this other than trial and error and making sure applications are restarted after every update.  
