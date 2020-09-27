@@ -103,7 +103,7 @@ def xcompose(files, keep_comments):
             except ValueError:
                 echo(f'malformed line:\n{row}', err=True)
                 continue
-            from_ = re.split('\s+', from_)
+            from_ = re.split(r'\s+', from_)
             try:
                 from_ = ''.join(remap_keys(from_))
             except ValueError as e:

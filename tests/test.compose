@@ -1,0 +1,5 @@
+# some leading comments
+# that should be ignored
+<Multi_key> <period> <period>		: "…"	U2026		# HORIZONTAL ELLIPSIS
+
+# spaces and line breaking comments should be ignored too
