@@ -52,7 +52,7 @@ Options:
     ```yaml
     cat: "(^≗ω≗^)"
     "+1": 👍
-    "-1": 👍
+    "-1": 👎
     ":(": "my face is sad"
     ```
    This map defines key combinations and texts that will be inserted, e.g. `<compose_key><plus><number 1>` will insert thumbs up.  
@@ -70,7 +70,7 @@ Options:
         "1" = ("insertText:", "👍");
       };
       "-" = {
-        "1" = ("insertText:", "👍");
+        "1" = ("insertText:", "👎");
       };
       ":" = {
         "(" = ("insertText:", "my face is sad");
@@ -122,7 +122,7 @@ $ cat example.yaml
 * Keymap does not allow completely overlapping keys. e.g. `egg` and `eggplant` will break because it's impossible to map two overlapping values as keymap functionality has no timeout (i.e. break if nothing is typed after a second and insert `egg`, instead it will wait indefinitely for you to finish `eggplant`)  
     If overlap happens `compose-gen` will choose the shorter form and discard the long one.  
     To fix this add end terminator character such as space: `egg<space>` rather than `egg` in your mappings.
-* `DefaultKeyBinding.dict` map doesn't work in some popular programs: 
+* `DefaultKeyBinding.dict` map doesn't work in some popular programs:
     - JetBrain editors such as PyCharm, see: https://youtrack.jetbrains.com/issue/IDEA-127470
     - QT apps such as Qutebrowser, see (and vote): https://bugreports.qt.io/browse/QTBUG-393
 
