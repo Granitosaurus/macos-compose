@@ -93,7 +93,7 @@ _note: Some programs need a hard reboot to take in the map, like `kill -9` sort 
 Linux's xcompose mappings are supported via experimental conversion:
 
 ```
-$ gen-compose-conver xcompose --help
+$ gen-compose-convert xcompose --help
 Usage: gen-compose-convert xcompose [OPTIONS] [FILES]...
 
   Convert xcompose file, that follows format like: <Multi_key> <parenleft>
@@ -107,13 +107,51 @@ Options:
 For example:
 
 ```
-$ cat mappings/example.compose
+$ head mappings/example.compose
 <Multi_key> <B> <bar> : "₿" U20BF  # BITCOIN SIGN
-$ gen-compose-convert xcompose mappings/example.compose --keep-comments > example.yaml
+...
+$ gen-compose-convert xcompose mappings/xcompose.compose --keep-comments > example.yaml
 $ cat example.yaml
 "B|": "₿"  # BITCOIN SIGN
+...
 ```
 
+## Exporting to XCompose
+
+`gen-compose-export` command can be used export yaml configuration back to XCompose file:
+
+```shell
+$ gen-compose-export --help
+Usage: gen-compose-export [OPTIONS] YAMLFILE
+
+  Export .yaml config file back to XCompose file i.e. this is reverse of
+  gen-compose-convert
+
+Options:
+  --help  Show this message and exit.
+```
+
+For example:
+
+```python
+$ head mappings/xcompose.yaml 
+"..": "…"  # HORIZONTAL ELLIPSIS
+"v..": "⋮"  # VERTICAL ELLIPSIS
+...
+$ gen-compose-export mappings/xcompose.yaml > xcompose.compose
+$ head xcompose.compose
+<Multi_key> <period><period>:"…"
+<Multi_key> <v><period><period>:"⋮"
+<Multi_key> <c><period><period>:"⋯"
+<Multi_key> <slash><period><period>:"⋰"
+<Multi_key> <period><backslash><period>:"⋱"
+<Multi_key> <2><period>:"‥"
+<Multi_key> <c><1><period>:"·"
+<Multi_key> <period><slash><period>:"⁒"
+<Multi_key> <ampersand><at>:"⅋"
+<Multi_key> <ampersand><7>:"⁊"
+...
+```
 
 ## Notes and Issues
 
