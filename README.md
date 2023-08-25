@@ -163,7 +163,7 @@ $ head xcompose.compose
 * `DefaultKeyBinding.dict` map doesn't work in some popular programs:
     - JetBrain editors such as PyCharm, see: https://youtrack.jetbrains.com/issue/IDEA-127470
     - QT apps such as Qutebrowser, see (and vote): https://bugreports.qt.io/browse/QTBUG-393
-
+* UTF character codes like `\UF703` (the right arrow key) are kept as is. This will break any key combinations starting with `\U`.
 
 
 #### Related Resources

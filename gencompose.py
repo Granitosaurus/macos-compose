@@ -104,15 +104,25 @@ def merge(source, destination):
 def read_paths(data):
     """
     Unpack first key of a dictionary as nested dictionary path
+    Do not split utf character codes.
 
     >>> read_paths({'cat': '>-.-<'})
     {'c': {'a': {'t': '>-.-<'}}}
     """
+    utf_pattern = re.compile(r'\\U[0-9A-Fa-f]{4,6}')
+
     parsed = {}
     for k, v in data.items():
-        parsed = merge(parsed, key_nest(list(k) + [v]))
+        # If the key matches the utf pattern, split it into individual utf codes and nest them
+        if utf_pattern.search(k):
+            utf_codes = utf_pattern.findall(k)
+            nested_data = v
+            for code in reversed(utf_codes):
+                nested_data = {code: nested_data}
+            parsed = merge(parsed, nested_data)
+        else:
+            parsed = merge(parsed, key_nest(list(k) + [v]))
     return parsed
-
 
 def data_to_mac_dict(data):
     """
@@ -133,6 +143,7 @@ def data_to_mac_dict(data):
     text = re.sub('"INSERT:(.+)",*', repl, text)
     text = re.sub('},*', '};', text)
     text = re.sub('": ', '" = ', text)
+    text = re.sub(r'\\\\U([0-9A-Fa-f]{4,6})', r'\\U\1', text)
     return text
 
 
