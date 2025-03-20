@@ -131,7 +131,7 @@ def data_to_mac_dict(data):
     text = json.dumps(updated, indent=2, ensure_ascii=False)
     repl = lambda value: f'("insertText:", "{value.groups()[0]}");'
     text = re.sub('"INSERT:(.+)",*', repl, text)
-    text = re.sub('},*', '};', text)
+    text = re.sub('},*(\n|$)', '};\n', text)
     text = re.sub('": ', '" = ', text)
     return text
 
